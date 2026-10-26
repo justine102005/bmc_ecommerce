@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592318012440",
+    "project_id": "sari-sari-store-42fd6",
+    "storage_bucket": "sari-sari-store-42fd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592318012440:android:0373f72d7eb65b0504776d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7bjz3K7ko2edOKsNTxbBQp4IM2d9fiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
